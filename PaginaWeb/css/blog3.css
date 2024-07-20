@@ -1,0 +1,40 @@
+#ayuda .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    max-width: 100%;
+    height: auto;
+}
+
+.info-ayuda {
+    margin: 20px;
+    margin-left: 50px;
+
+}
+
+.info-ayuda img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 7px solid black;
+    margin-left: 200px;
+    margin: 50px;
+    
+
+}
+
+.contenedor p{
+    width: 650px;
+    text-align: justify;
+    margin: 20px;
+}
+
+.contenedor h4{
+    text-align: justify;
+    margin: 20px;
+    text-align: center;
+    margin-top: -40px;
+    color: black;
+}
+
+
